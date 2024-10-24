@@ -4,8 +4,8 @@ import fetch from 'node-fetch';
 import { writeFile } from 'fs/promises';
 
 let botname = "布洛妮娅"
-const ACCOUNT_ID = "aaaa"
-const API_TOKEN = "dddd"
+const ACCOUNT_ID = "aaaa"   //Cloudflare账号ID
+const API_TOKEN = "dddd"    //Cloudflare账号Workers AI API Token
 
 export class cloudflareWorkersAi extends plugin {
     constructor() {
