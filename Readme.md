@@ -8,8 +8,8 @@
 
 #### 1. 对话
 
-![https://img.chxc.cc/file/36012aafd268d0c6609b5-ac13ee5bab3a164d10.png](https://img.chxc.cc/file/36012aafd268d0c6609b5-ac13ee5bab3a164d10.png)
+![https://img.chxc.cc/file/9a07b443fa006a1f465cc-c5a582222333a702b8.png](https://img.chxc.cc/file/9a07b443fa006a1f465cc-c5a582222333a702b8.png)
 
 #### 2. 画图
 
-![https://img.chxc.cc/file/75a8c21f76d7334ec290a-46c87a20173d337f9c.png](https://img.chxc.cc/file/75a8c21f76d7334ec290a-46c87a20173d337f9c.png)
+![https://img.chxc.cc/file/50daee950752f2cd08aa3-f27ca4872294ab8f10.png](https://img.chxc.cc/file/50daee950752f2cd08aa3-f27ca4872294ab8f10.png)
