@@ -68,7 +68,7 @@ export class cloudflareWorkersAi extends plugin {
         let input = { "prompt": prompt }
         try {
             const response = await fetch(
-                `https://api.cloudflare.com/client/v4/accounts/`{ACCOUNT_ID}`/ai/run/${model}`,
+                `https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/ai/run/${model}`,
                 {
                   headers: { Authorization: `Bearer ${API_TOKEN}` },
                   method: "POST",
